@@ -25,7 +25,7 @@ A simple GUI-based Python application that allows users to select an image and a
 
 ## 🚀 How to Run
 
-- python blur_tool.py
+- python main.py
 
 ---
 
@@ -35,9 +35,9 @@ A simple GUI-based Python application that allows users to select an image and a
 - Read the instructions shown in a popup.
 - Click and drag the mouse on the image to draw a red rectangle over the area you want to blur.
 - Press:
-       - S to save the blurred image
-       - ESC to exit without saving
-       - Any other key to reload the original image
+        S - to save the blurred image, 
+        ESC - to exit without saving,
+        Any - other key to reload the original image.
 
 ## 🙋‍♂️ Author
 - Manish N
