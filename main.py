@@ -4,7 +4,7 @@ import cv2
 
 r=tk.Tk()
 r.withdraw()
-file_path=filedialog.askopenfilename(title="SelEct the image",filetypes=[("Image File",("*jpg","*png","*jpeg"))])
+file_path=filedialog.askopenfilename(title="Select the image",filetypes=[("Image File",("*jpg","*png","*jpeg"))])
 im=cv2.imread(file_path,1)
 
 drawing=False
